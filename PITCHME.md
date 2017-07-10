@@ -19,6 +19,7 @@ announced on the M4 blog on December 28, 2008 (M4 Project Blog, 2008).
 * The [third
 message](https://enigma.hoerenberg.com/index.php?cat=M4%20Project%202006&page=Third%20Message) 
 was broken on January 14, 2013 (Gerard, 2013).
+
 </small>
 ---
 
@@ -28,14 +29,16 @@ was broken on January 14, 2013 (Gerard, 2013).
 * Each workunit is a range of 26^4 keys to apply to the current message. 
 * Processing time was estimated at 80 minutes on a Celeron 1.2Ghz processor.
 * The most promising result returns to the server.
+
 </small>
 
 ---
 
 ## References
 <small>
-BOINC. Enigma@Home - BOINC. March 2, 2009. Accessed July 10,
-2017. http://boinc.berkeley.edu/wiki/Enigma@Home.
+<div style="text-align: left">
+BOINC. Enigma@Home - BOINC. March 2, 2009. Accessed July 10, 2017. 
+http://boinc.berkeley.edu/wiki/Enigma@Home.
 
 Gerard, Dan. "Third Message." Breaking German Navy Ciphers - Unbroken Enigma
 message. January 14, 2013. Accessed July 10, 2017.
@@ -43,4 +46,5 @@ https://enigma.hoerenberg.com/index.php?cat=M4 Project 2006&page=Third Message.
 
 Krah, Stefan . M4 Project Blog. December 28, 2008. Accessed July 10, 2017.
 http://www.bytereef.org/m4-project-blog.html.
+</div>
 </small>

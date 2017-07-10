@@ -7,7 +7,8 @@ computing.
 ---
 
 ## Timeline
-<small>* The messages have been broken. 
+<small>
+* The messages have been broken. 
 * The project officially started on January 9, 2006.
 * The [first message](http://www.bytereef.org/m4-project-first-break.html) was
 broken on February 20, 2006 (Krah, 2008).
@@ -18,6 +19,7 @@ announced on the M4 blog on December 28, 2008 (M4 Project Blog, 2008).
 * The [third
 message](https://enigma.hoerenberg.com/index.php?cat=M4%20Project%202006&page=Third%20Message) 
 was broken on January 14, 2013 (Gerard, 2013).
+
 </small>
 ---
 

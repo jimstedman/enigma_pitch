@@ -1,10 +1,10 @@
+---?image=assets/bg.jpg
 ## Enigma@Home
-
 Enigma@Home is a wrapper for the M4 Message Breaking Project in order to use
 BOINC to help break the 3 unbroken Enigma messages with the help of distributed
 computing.
 
----
+---?image=assets/bg.jpg
 
 ## Timeline
 <small>
@@ -21,18 +21,19 @@ message](https://enigma.hoerenberg.com/index.php?cat=M4%20Project%202006&page=Th
 was broken on January 14, 2013 (Gerard, 2013).
 
 </small>
----
+---?image=assets/bg.jpg
 
-## Basic Architecture of Workloads
+### Architecture of Workloads
 <small>
 * Client requests and recieves a new workunit.
 * Each workunit is a range of 26^4 keys to apply to the current message. 
 * Processing time was estimated at 80 minutes on a Celeron 1.2Ghz processor.
 * The most promising result returns to the server.
+* (Krah, 2008)
 
 </small>
 
----
+---?image=assets/bg.jpg
 
 ## References
 <small>

@@ -9,10 +9,10 @@ computing.
 ## Timeline
 * The messages have been broken. 
 * January 9, 2006 - Project official started
-* February 20, 2006 - [first message](http://www.bytereef.org/m4-project-first-break.html) broken (Krah, 2008).
-* March 7, 2006 (Krah, 2008) - [second message](http://www.bytereef.org/m4-project-second-break.html) broken. 
+* February 20, 2006 - [1st message](http://www.bytereef.org/m4-project-first-break.html) broken (Krah, 2008).
+* March 7, 2006 (Krah, 2008) - [2nd message](http://www.bytereef.org/m4-project-second-break.html) broken. 
 * July 7, 2009 - BOINC wrapper went public (BOINC, 2009), announced on the M4 blog on December 28, 2008 (M4 Project Blog, 2008).
-* January 14, 2013 - [third message](https://enigma.hoerenberg.com/index.php?cat=M4%20Project%202006&page=Third%20Message) broken (Gerard, 2013).
+* January 14, 2013 - [3rd message](https://enigma.hoerenberg.com/index.php?cat=M4%20Project%202006&page=Third%20Message) broken (Gerard, 2013).
 
 ---?image=assets/bg.png
 

@@ -1,10 +1,10 @@
----?image=assets/bg.jpg
+---?image=assets/bg.png
 ## Enigma@Home
 Enigma@Home is a wrapper for the M4 Message Breaking Project in order to use
 BOINC to help break the 3 unbroken Enigma messages with the help of distributed
 computing.
 
----?image=assets/bg.jpg
+---?image=assets/bg.png
 
 ## Timeline
 <small>
@@ -21,7 +21,7 @@ message](https://enigma.hoerenberg.com/index.php?cat=M4%20Project%202006&page=Th
 was broken on January 14, 2013 (Gerard, 2013).
 
 </small>
----?image=assets/bg.jpg
+---?image=assets/bg.png
 
 ### Architecture of Workloads
 <small>
@@ -33,7 +33,7 @@ was broken on January 14, 2013 (Gerard, 2013).
 
 </small>
 
----?image=assets/bg.jpg
+---?image=assets/bg.png
 
 ## References
 <small>

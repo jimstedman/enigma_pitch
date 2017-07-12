@@ -38,6 +38,6 @@ https://enigma.hoerenberg.com/index.php?cat=M4%20Project%202006&page=Third Messa
 Krah, Stefan . M4 Project Blog. December 28, 2008. Accessed July 10, 2017.
 http://www.bytereef.org/m4-project-blog.html.
 
-Background courtesy of [tiled-bg.blogspot.com](tiled-bg.blogspot.com).
+Background courtesy of [https://tiled-bg.blogspot.com](https://tiled-bg.blogspot.com).
 </div>
 </small>

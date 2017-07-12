@@ -33,9 +33,11 @@ http://boinc.berkeley.edu/wiki/Enigma@Home.
 
 Gerard, Dan. "Third Message." Breaking German Navy Ciphers - Unbroken Enigma
 message. January 14, 2013. Accessed July 10, 2017.
-https://enigma.hoerenberg.com/index.php?cat=M4%20Project%202006&page=Third%20Message.
+https://enigma.hoerenberg.com/index.php?cat=M4%20Project%202006&page=Third Message.
 
 Krah, Stefan . M4 Project Blog. December 28, 2008. Accessed July 10, 2017.
 http://www.bytereef.org/m4-project-blog.html.
+
+Background courtesy of [tiled-bg.blogspot.com](tiled-bg.blogspot.com).
 </div>
 </small>

@@ -6,7 +6,7 @@ computing.
 
 ---?image=assets/bg.png
 
-## Timeline
+## Status & Timeline
 * The messages have been broken. 
 * January 9, 2006 - Project official started
 * February 20, 2006 - [1st message](http://www.bytereef.org/m4-project-first-break.html) broken (Krah, 2008).
@@ -33,7 +33,7 @@ http://boinc.berkeley.edu/wiki/Enigma@Home.
 
 Gerard, Dan. "Third Message." Breaking German Navy Ciphers - Unbroken Enigma
 message. January 14, 2013. Accessed July 10, 2017.
-https://enigma.hoerenberg.com/index.php?cat=M4 Project 2006&page=Third Message.
+https://enigma.hoerenberg.com/index.php?cat=M4%20Project%202006&page=Third%20Message.
 
 Krah, Stefan . M4 Project Blog. December 28, 2008. Accessed July 10, 2017.
 http://www.bytereef.org/m4-project-blog.html.
